@@ -6,7 +6,7 @@ if(isset($_POST['submit'])) {
     $mailFrom = $_POST['number'];
     $message = $_POST['subject'];
 
-$mailTO ="shauriyasharma@gmail.com";
+$mailTO ="shauryas@outlook.com";
 
 }
 
