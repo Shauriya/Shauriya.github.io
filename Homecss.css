@@ -41,7 +41,7 @@
 }
 
 .parallax {
-    background: url('/Users/shauryasharma/Desktop/Shauriya.github.io/image.jpg') repeat;
+    background: url('image.jpg') repeat;
     background-size: cover;
     background-attachment: fixed;
     height: 700px;
